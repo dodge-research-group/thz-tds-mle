@@ -11,4 +11,4 @@ Tested with:
 
 ## Instructions
 1. Add `lib` to your path
-2. Run `figgen/figgen.m`
+2. From the `figgen` directory, run `figgen.m`
