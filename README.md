@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/321872798.svg)](https://zenodo.org/badge/latestdoi/321872798)
 
 # thz-tds-mle
-Please cite as: Laleh Mohtashemi, Paul Westlund, Derek G. Sahota, Graham B. Lea, Ian Bushfield, Payam Mousavi, and J. Steven Dodge, "Maximum-likelihood parameter estimation for terahertz time-domain spectroscopy," [arXiv:2012.08509](https://arxiv.org/abs/2012.08509) (2020).
+Please cite as: Laleh Mohtashemi, Paul Westlund, Derek G. Sahota, Graham B. Lea, Ian Bushfield, Payam Mousavi, and J. Steven Dodge, "Maximum-likelihood parameter estimation for terahertz time-domain spectroscopy," Opt. Express **29**, 4912 (2021). [DOI](https://doi.org/10.1364/OE.417724)
 
 ## Dependencies
 Tested with:
